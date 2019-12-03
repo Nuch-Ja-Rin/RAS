@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12, 12.875" name="RASbase">
+  <DataContextMoniker Name="/RASbaseDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e7259a51-fb66-42a2-8321-4900f47dd792" absoluteBounds="0.75, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/RASbaseDataContext/Degree" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9074c3f0-19f8-44e1-a356-8cf9b7e158fd" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="57f0b7fe-a7c0-4ebb-8917-1e715f2af5a2" absoluteBounds="3.75, 0.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/RASbaseDataContext/Employee" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a68386af-6805-4506-b7de-118d2e1f8307" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7b148b10-2669-4f96-99ce-e5eca1199150" absoluteBounds="0.75, 3.75, 2, 1.193992513020834">
+      <DataClassMoniker Name="/RASbaseDataContext/Faculty" />
+      <nestedChildShapes>
+        <elementListCompartment Id="49be09eb-7070-4d74-a054-af1a60e86159" absoluteBounds="0.765, 4.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="673557f7-634f-46e0-a0ec-d00c0d906dff" absoluteBounds="3.75, 3.75, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/RASbaseDataContext/FormRequirement" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7408cb28-a139-4cdc-b0b2-9cdb2c073456" absoluteBounds="3.765, 4.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="69a049d7-8fe1-4380-91c4-741ae4e74812" absoluteBounds="6.75, 0.75, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/RASbaseDataContext/Login" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c1a46805-3f8f-4a55-99fb-3c235e9f87e7" absoluteBounds="6.765, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a10c6486-2c9b-419e-8135-21a875feebe8" absoluteBounds="0.75, 6.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/RASbaseDataContext/Program" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b9b15112-c32b-43a7-ab16-e9ea26c5fec2" absoluteBounds="0.765, 7.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f5535711-6add-4aea-90bd-5be3bff0e82f" absoluteBounds="6.75, 3.75, 2, 5.0400211588541666">
+      <DataClassMoniker Name="/RASbaseDataContext/Student" />
+      <nestedChildShapes>
+        <elementListCompartment Id="97ad84f6-dfb8-470f-b538-7ff38f9351dd" absoluteBounds="6.765, 4.21, 1.9700000000000002, 4.4800211588541661" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2c002163-04d8-47dd-9bf9-49d30a2e8b9f" absoluteBounds="9.75, 0.75, 2, 1.7708968098958329">
+      <DataClassMoniker Name="/RASbaseDataContext/Teacher" />
+      <nestedChildShapes>
+        <elementListCompartment Id="70357684-6f15-494a-9181-ed9f71c2c2eb" absoluteBounds="9.765, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3f74a106-e351-4e71-913a-d0c48d0098ef" absoluteBounds="0.75, 9.75, 2, 2.9247054036458309">
+      <DataClassMoniker Name="/RASbaseDataContext/Subject" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3d15e81c-298a-405a-ae48-48231c651147" absoluteBounds="0.765, 10.21, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="076727af-dded-44e2-9f46-4376ca51541c" absoluteBounds="3.375, 6.75, 2, 3.3093082682291666">
+      <DataClassMoniker Name="/RASbaseDataContext/T2" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1fbefb3e-bd7f-4bf0-9896-1f1c6d01a585" absoluteBounds="3.39, 7.21, 1.9700000000000002, 2.7493082682291665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="57fc768d-1fe0-4721-93bd-02d36c1e30f0" absoluteBounds="9.375, 3.75, 2, 4.0785139973958326">
+      <DataClassMoniker Name="/RASbaseDataContext/T3" />
+      <nestedChildShapes>
+        <elementListCompartment Id="da8ec8fa-b3e6-4c9a-bfbc-4697df49cd4b" absoluteBounds="9.39, 4.21, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
