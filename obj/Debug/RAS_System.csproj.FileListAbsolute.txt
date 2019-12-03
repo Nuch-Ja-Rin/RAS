@@ -48,3 +48,5 @@ D:\work\Project_End\RAS_System\RAS_System\obj\Debug\RAS_System.csprojAssemblyRef
 D:\work\Project_End\RAS_System\RAS_System\obj\Debug\RAS_System.csproj.CopyComplete
 D:\work\Project_End\RAS_System\RAS_System\obj\Debug\RAS_System.dll
 D:\work\Project_End\RAS_System\RAS_System\obj\Debug\RAS_System.pdb
+C:\Users\Lenovo\Source\Repos\Nuch-Ja-Rin\RAS\obj\Debug\RAS_System.dll
+C:\Users\Lenovo\Source\Repos\Nuch-Ja-Rin\RAS\obj\Debug\RAS_System.pdb
